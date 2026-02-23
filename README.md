@@ -12,5 +12,5 @@
 - Power BI
 
 ## 📌 Current Focus
-- Data Science Roadmap (2025–2026)
+- Data Science Roadmap (2025–2027)
 - Internship Projects
