@@ -1,7 +1,5 @@
-# Hi, I'm Shreya 👋
-
-🎓 B.Tech Student | 📊 Aspiring Data Scientist  
-💻 Learning Python, SQL, and Machine Learning  
+# Hi, I'm Shreya 👋  
+### Data Science Enthusiast | B.Tech Student | Python Developer 
 🚀 Passionate about building real-world data projects  
 
 ## 🔧 Skills
